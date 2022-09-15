@@ -1,0 +1,15 @@
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfoInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfo.cs
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\bin\Debug\net6.0\HW_1.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\bin\Debug\net6.0\HW_1.deps.json
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\bin\Debug\net6.0\HW_1.runtimeconfig.json
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\bin\Debug\net6.0\HW_1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\bin\Debug\net6.0\HW_1.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\refint\HW_1.dll
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\HW_1.genruntimeconfig.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\homework_csharp\Homework\HW_1\obj\Debug\net6.0\ref\HW_1.dll

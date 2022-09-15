@@ -56,6 +56,7 @@ Console.WriteLine($"Сумма чисел от {M} до {N} = {PrintSumNumbers(M
 // с помощью рекурсии. Даны два неотрицательных числа m и n.
 // m = 2, n = 3 -> A(m,n) = 9
 
+// работает для 2 и 3, но не работает для чисел 4 и 5 = stack overflow: Repeat 19281 times:
 
 Console.Clear();
 
